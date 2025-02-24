@@ -134,11 +134,12 @@ input:hover{
 
 .container-img{
     height: 100px;
+    padding: 10px 0px;
 }
 
 .container-img1{
     height: 100px;
-    padding: 0px 20px;
+    padding: 10px 20px;
 }
 .container-h{
     font-size: 25px;
@@ -163,8 +164,8 @@ input:hover{
     text-decoration: underline #4C5FD5;
 }
 .container-img6{
-    padding: 0px 0px 40px 90px;
-    height: 140px;
+    padding: 10px 20px 0px;
+    height: 90px;
 }
 
 
@@ -176,7 +177,7 @@ footer{
     display: flex;
     flex-direction: row;
     gap: 30px;
-    margin: 0px 70px;
+    margin: 0px 100px;
     padding: 0px 40px;
 }
 
@@ -217,5 +218,5 @@ footer{
 .footer-p{
     color: #fff;
     padding: 4px 0px 0px 0px;
-    font-size: 20px;
+    font-size: 18px;
 }
